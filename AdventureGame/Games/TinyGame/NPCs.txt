@@ -1,0 +1,94 @@
+Blacksmith
+Bartholomew Smith III: World's Greatest Blacksmith
+30
+1
+Is this your first time visiting? Be careful out there.
+-----
+How could you, I was trying to help you, you will die a gruesome death!!
+
+Goblin
+Mike: Goblin Fodder
+20
+1
+2
+You will not get past me, I am a powerful soldier of the goblin army...
+[Yapping noises]
+-----
+I am dying....No this can't be. Damn you human, the goblin king will avenge me!
+
+Dragon
+Mini Dragon
+40
+1
+5
+I will beat you and prove mommy proud!!
+-----
+OUchie that hurts, I will tell mommy about this!
+
+Goblin
+Borkle: The Goblin King
+75
+2
+20
+Is that... is that a human? How long has it been since I have eaten one... We're eating good
+tonight!
+-----
+How could this be, a mere human was able to kill me, I will remember this...
+
+Troll
+Loki: King of Trolls, The Trickster
+100
+2
+30
+Would you like to play a gameeee? If you win, you will get a Powerup.
+But if you lose, you will forever be trapped in this mini cage for eternity.
+Let's see if you can keep up.:)))
+-----
+Gosh darn it, I lost! You're lucky today human.
+
+Merchant
+Greedy Ginny: Potential Fraud
+15
+2
+Hello, how can I scam... I mean, help you today? An item? Let's see if I have one in my bag.
+-----
+Oh no how did you figure out I was scamming you...
+
+Wizard
+Shadowlord Terrorbeard: The Enlightened One, Greatest Sorcerer Of All Time
+100
+2
+30
+Welcome to my magic academy, Let's see if you have enough reputation to get healed.LAAABUUUUAEAAEAFAFA!!!
+-----
+You coward, you backstabber! You will fall in a pit and die miserably!
+
+Saint
+Goddess Mary: The Merciful Angel
+54
+3
+30
+Oh great hero! You have finally visited me!
+-----
+You must have killed me by accident, but I will still forgive you.
+
+Dragon
+The World Serpent: The Devourer of Worlds
+200
+4
+40
+You dare to awaken me in my slumber? I will make you learn your lesson!
+-----
+Ahhh that hurtss!!! At least I can sleep forever now...
+
+Dragon
+Hellfire Hydra: King of The Dragons, World’s Strongest Creature
+280
+5
+60
+You fool! You dare to challenge me? I am the strongest in these lands, prepare to die!!!
+-----
+What is this? It is dark... I can't see anything. Is this death? So you really are the chosen
+one.
+Stand proud, you are strong.
+

@@ -1,0 +1,28 @@
+Welcome to the Bozo Bazaar!
+
+* To sell objects from your inventory, type "SELL" + {object name}.
+You will receive the amount of coins specified by the object's worth.
+Note that this action can not be reversed!
+
+
+The following power-ups that can be purchased:
+
+1) MK (Master Key)
+- Price: 20
+- Effect: Enter any room blocked by an object on your next move!
+
+2) SP (Strength Potion)
+- Price: 15
+- Effect: Deal twice the amount of damage to your opponents on your next attack!
+
+3) RR (Reputation Rejuvenator)
+- Price: 10
+- Effect: Gain 5 reputation points by consuming this substance!
+
+4) HP (Health Potion)
+- Price: 5
+- Effect: Gain 10 health points by consuming this potion!
+
+
+* To purchase an object, type "BUY", followed by one of the following options: [MK, SP, RR, HP].
+The price will be deducted from your balance, and the purchased power-up will be activated immediately.

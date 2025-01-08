@@ -1,0 +1,52 @@
+To play this game you must move between locations and interact with objects by typing one or two
+word commands.
+
+Some commands are motion commands.  These will move you from room to room. Motion commands include:
+
+UP, DOWN, EAST, WEST, NORTH, SOUTH
+
+Not all motions are possible in every room. In addition, some rooms may have "special" or "secret"
+motion commands.
+
+There are other action commands in the game. These include:
+
+COMMANDS: this will print the moves that are legal in a given room.
+
+HELP: this will display instructions
+
+INVENTORY: this will print your current inventory.
+
+BALANCE: this will print the amount of coins you currently have.
+
+LOOK: this will print the description for the current room.
+
+TAKE <object>: this will take an object from a room and place it in your inventory. Replace <object>
+with the name of the object to take. The object must be present in the room in order to take it.
+
+DROP <object>: this will drop an object in your inventory. Replace <object> with the name of the object
+to drop. The object must be in your inventory to drop it.
+
+SHOP: this will display the instructions related the game shop, where you can buy power-ups and sell
+objects.
+
+BEG <NPC>: this will beg the NPC for help. Replace <NPC> with the name of the NPC. The NPC must be in
+the room, and it must be a friendly NPC.
+
+FIGHT <NPC>: this will fight the NPC. Replace <NPC> with the name of the NPC. The NPC must be in the
+room.
+
+TYPE <NPC>: this will display the NPC's type and whether it is hostile or friendly. Replace <NPC> with the
+name of the NPC. The NPC must be in the room.
+
+If you defeat a hostile NPC, your reputation points will increase by 15 points but not exceed 100 points.
+If you defeat a friendly NPC, your reputation points will decrease by 50 points but will not go below 0 points.
+
+Try to avoid fighting friendly NPCs because fighting friendly NPCs reduces your reputation points. If
+your reputation is too low, you might not receive help from friendly NPCs the next time you beg.
+
+Some paths may be blocked.  To unblock a path you may need a specific object to be in your inventory,
+unless you own an active Master Key.
+
+The game is over when your player reaches the VICTORY room, or when your player DIES by entering a trap
+room or losing all their health points.
+

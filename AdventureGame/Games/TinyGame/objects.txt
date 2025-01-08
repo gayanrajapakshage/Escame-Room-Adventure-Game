@@ -1,0 +1,14 @@
+BIRD
+a water bird
+2
+3
+
+CHEST
+a pirate chest
+3
+4
+
+BOOK
+a copy of an illuminated manuscript
+1
+2
